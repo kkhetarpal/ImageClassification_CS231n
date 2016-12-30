@@ -1,4 +1,1 @@
-# ImageClassification_CS231n
-CS231N - KNN-SVM-Softmax-TwoLayerNN
-
-Source: http://cs231n.github.io/assignments2016/assignment1/
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Winter 2016.
